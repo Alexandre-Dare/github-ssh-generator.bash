@@ -105,7 +105,7 @@ then
     echo
     echo "-> puis coller la dans l'interface GitHub"
     echo "   GitHub > Settings > SSH & GPG Keys > New SSH key"
-    echo "   Title : teleporteur_oclock"
+    echo "   Title : nom du poste"
     echo "   Key   : la clé ci-dessous, commençant par ssh-ed25519..."
     echo 
     echo "=========================="
